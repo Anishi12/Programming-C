@@ -1,0 +1,6 @@
+1 Anish 85.6
+2 Sabin 78.4
+3 Vijay 92.3
+4 Aayush 88.9
+5 Pratik 79.5
+
